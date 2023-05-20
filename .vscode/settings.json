@@ -8,18 +8,6 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "db_olist",
-            "database": "olist_db",
-            "username": "root"
-        },
-        {
-            "mysqlOptions": {
-                "authProtocol": "default"
-            },
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 3306,
-            "driver": "MySQL",
             "name": "staging_olist",
             "database": "staging_olist_db",
             "username": "root"
