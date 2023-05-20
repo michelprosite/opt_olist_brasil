@@ -1,0 +1,9 @@
+path_transient,path_raw,table_transient,table_raw,table_name
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_customers_dataset,olist_customers_dataset,stg_customers
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_geolocation_dataset,olist_geolocation_dataset,stg_geolocation
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_order_items_dataset,olist_order_items_dataset,stg_items
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_order_payments_dataset,olist_order_payments_dataset,stg_payments
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_order_reviews_dataset,olist_order_reviews_dataset,stg_reviews
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_orders_dataset,olist_orders_dataset,stg_orders
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_products_dataset,olist_products_dataset,stg_products
+/home/michel/opt/kaggle_olist/transient,/home/michel/opt/kaggle_olist/raw,olist_sellers_dataset,olist_sellers_dataset,stg_sellers
