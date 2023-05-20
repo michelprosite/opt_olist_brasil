@@ -1,1 +1,1 @@
-DROP TABLE stg_payment
+DROP TABLE stg_geolocation
